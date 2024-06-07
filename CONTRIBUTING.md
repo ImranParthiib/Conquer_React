@@ -17,13 +17,15 @@ Please make sure to follow our [contribution guidelines](CONTRIBUTING.md) and ad
 
 ### Project Maintainers
 
-- **[Your Name](https://github.com/your-github-username)** - Creator & Lead Developer
+- **[Your Name](https://github.com/imranparthiib)** - Creator & Lead Developer
 
 ### Contributors
 
 We'd like to extend our heartfelt thanks to all the contributors who have helped make this project better. Here are some of our notable contributors:
 
-- **[Contributor 1](https://github.com/contributor1)**
+>>>>>>>>>>No contributor Yet<<<<<<<<<<
+
+<!-- - **[Contributor 1](https://github.com/contributor1)**
 
   - Contributions: Documentation improvements, bug fixes
 
@@ -32,7 +34,7 @@ We'd like to extend our heartfelt thanks to all the contributors who have helped
   - Contributions: Feature additions, code refactoring
 
 - **[Contributor 3](https://github.com/contributor3)**
-  - Contributions: Testing, issue reporting
+  - Contributions: Testing, issue reporting -->
 
 _Note: To add your name to the list of contributors, please open a Pull Request._
 
