@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 import Board from "./Board";
-import socket from "../socket";
+import io from "socket.io-client";
+
+const socket = io("http://localhost:3001");
 
 const Game = () => {
   const [squares, setSquares] = useState(Array(9).fill(null));
