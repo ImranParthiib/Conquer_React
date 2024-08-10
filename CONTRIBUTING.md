@@ -17,7 +17,7 @@ Please make sure to follow our [contribution guidelines](CONTRIBUTING.md) and ad
 
 ### Project Maintainers
 
-- **[Your Name](https://github.com/imranparthiib)** - Creator & Lead Developer
+- **[Imran Parthib](https://github.com/imranparthiib)** - Creator & Lead Developer
 
 ### Contributors
 
