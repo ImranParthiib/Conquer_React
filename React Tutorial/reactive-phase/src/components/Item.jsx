@@ -4,7 +4,7 @@ const Item = () => {
       {/* Image Section */}
       <div>
         <img
-          src="/src/assets/images/image-omelette.jpeg"
+          src="/src/assets/images/item.png"
           alt="Omelette"
           className="rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 w-full"
         />
