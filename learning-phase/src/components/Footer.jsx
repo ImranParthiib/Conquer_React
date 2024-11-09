@@ -1,6 +1,6 @@
 import { FaGithub, FaFacebook } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
-import ReactLogo from "../assets/React.svg"; // Adjust the path as necessary
+import ReactLogo from "../assets/React.svg";  
 import Welcome from "./Welcome";
 
 function Footer() {
