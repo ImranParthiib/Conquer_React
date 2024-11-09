@@ -17,7 +17,8 @@ function App() {
             src={lightState ? lightOn : lightOff}
             alt="Light"
             className="w-32 sm:w-48 md:w-64"
-            onClick={() => setLightState(!lightState)}
+            onMouseOver={() => setLightState(!lightState)}
+            onMouseOut={() => setLightState(!lightState)}
           />
         </div>
 
